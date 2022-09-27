@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+Hi there 👋
+</h1>
 
-<!--
-**psu-de/psu-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I am Paul Sütterlin. Currently I am studying at Karlsruhe Institute of Technology - KIT. I love learning new technologies and connect with other developers.
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  My most used languages
+</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-CSHARP-239120?style=for-the-badge&logo=C%20Sharp&logoColor=36d132&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=f9e756&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=5d99cb&labelColor=282828"/>
+  <img src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=PHP&logoColor=999cc6&labelColor=282828"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I'm also very interested in AI and automation
+</p>
