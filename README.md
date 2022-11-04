@@ -3,7 +3,7 @@ Hi there 👋
 </h1>
 
 <p align="center">
-I am Paul Sütterlin. Currently I am studying at Karlsruhe Institute of Technology - KIT. I love learning new technologies and connect with other developers.
+I am Paul Sütterlin. Currently I am studying Informatics at Karlsruhe Institute of Technology - KIT. I love learning new technologies and connect with other developers.
 </p>
 
 <h3 align="center">
